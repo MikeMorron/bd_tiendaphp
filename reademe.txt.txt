@@ -1,0 +1,10 @@
+este proyecto solo te muestra los datos de la base de datos dienda 1 
+
+
+el .zip de bd_extensa tiene las 3 tiendas y el filtro, pero no tiene relacionadas las 4 tablas de la base de datos Tienda.
+
+
+realizado por TPMike69...
+
+
+de chill 😜
